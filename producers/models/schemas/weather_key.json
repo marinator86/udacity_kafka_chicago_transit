@@ -1,0 +1,11 @@
+{
+  "namespace": "weather",
+  "type": "record",
+  "name": "key",
+  "fields": [
+    {
+      "name": "timestamp",
+      "type": "long"
+    }
+  ]
+}
